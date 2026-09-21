@@ -1,2 +1,1 @@
-# swelectricalwork.github.io
-S&amp;W Electrical Works
+# S&W Electrical Works\n\nStatic GitHub Pages site.\n\nCustom domain: `swelectricalwork.co.uk`\n
